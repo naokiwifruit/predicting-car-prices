@@ -6,7 +6,7 @@ The k-nearest neighbors algorithm (k-NN) is a simple machine learning algorithm 
 The goal of this project is to experience the workflow of building the machine learning model using the k-NN method and predict car market prices.
 
 ## Articles
-1. naokiwifruit 『kNN法で機械学習のモデル構築を体験しよう』note.com (2019) [[link](https://note.com/naokiwifruit/n/n3fed67a1b3d0)].
+1. naokiwifruit 『kNN法で機械学習のモデル構築を体験しよう』Scientification (2019) [[link](https://naokiwifruit.com/2020/02/02/ml-hands-on-with-knn/)].
 
 ## References
 1. "Machine Learning Fundamentals" Dataquest (2019) [[link](https://app.dataquest.io/course/machine-learning-fundamentals)].
